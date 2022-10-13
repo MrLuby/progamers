@@ -174,7 +174,7 @@ header h1 {
 header .hero-img {
 	position: relative;
 	height: 100vh;
-	background-image: url("/herosmall.jpg");
+	background-image: url("herosmall.jpg");
 	background-position: center;
 	background-size: cover;
 	background-attachment: fixed;
@@ -231,7 +231,7 @@ header .fa-chevron-down {
 
 .about-hero {
 	position: relative;
-	background-image: url("/technosmall.jpg");
+	background-image: url("technosmall.jpg");
 	background-size: cover;
 	background-position: center;
 	background-attachment: fixed;
@@ -318,7 +318,7 @@ header .fa-chevron-down {
 
 .team {
 	position: relative;
-	background-image: url("/team/roomsmall.jpg");
+	background-image: url("roomsmall.jpg");
 	background-position: center;
 	background-size: cover;
 	background-attachment: fixed;
@@ -378,7 +378,7 @@ header .fa-chevron-down {
 
 .contact {
 	position: relative;
-	background-image: url("/citysmall.jpg");
+	background-image: url("citysmall.jpg");
 	background-position: bottom;
 	background-size: cover;
 	background-attachment: fixed;
@@ -439,18 +439,18 @@ header .fa-chevron-down {
 		height: 66px;
 	}
 	header .hero-img {
-		background-image: url("/herolarge.jpg");
+		background-image: url("herolarge.jpg");
 	}
 	.about-hero {
-		background-image: url("/technolarge.jpg");
+		background-image: url("technolarge.jpg");
 	}
 	.prices .price-info {
 		font-size: 18px;
 	}
 	.team {
-		background-image: url("/roombig.jpg");
+		background-image: url("roombig.jpg");
 	}
 	.contact {
-		background-image: url("/citylarge.jpg");
+		background-image: url("citylarge.jpg");
 	}
 } /*# sourceMappingURL=style.css.map */
